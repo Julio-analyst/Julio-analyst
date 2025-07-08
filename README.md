@@ -22,4 +22,4 @@
 - Real-time data streaming
 - ML Ops and data pipeline automation
 
-📬 Reach me at: farrel12345@gmail.com
+📬 Reach me at: farelrel12345@gmail.com
