@@ -12,45 +12,80 @@
 
 ---
 
-## 🧑‍💻 About Me
-I'm a Data Science student at Institut Teknologi Sumatera with a passion for AI, time series forecasting, and building impactful solutions. From forecasting GDP using LSTM to developing an investment chatbot, I love turning data into real-world insights — especially in economics and finance.
+## 👨‍💼 About Me
+
+Aspiring data builder passionate about solving real-world problems with AI, data pipelines, and interactive analytics.  
+Currently studying Data Science at Institut Teknologi Sumatera, with growing experience in:
+
+- Designing **data pipelines** & real-time ingestion systems
+- Developing **ML forecasting & chatbot assistants** for real use cases
+- Delivering **actionable insights** in domains like finance, industry, and digital infrastructure
 
 ---
 
-## 🚀 Projects
+## 🏗 What I Build
 
-- 🔮 **[impact-of-ai-asean](https://github.com/Julio-analyst/impact-of-ai-asean)**  
-  LSTM model to forecast GDP trends in ASEAN based on AI growth. Finalist at RASIO 8.0. Includes EDA, forecasting pipeline, and interactive visualizations.
-
-- 📈 **[IDISbot](https://github.com/Julio-analyst/IDISbot)**  
-  AI-powered chatbot for investment guidance using OpenAI API and real-time stock data via YFinance.
-
-- 📊 **Streamlit Dashboard** *(coming soon)*  
-  Interactive stock analytics dashboard using Plotly and Streamlit.
-
-- 🧠 **Churn Prediction Model** *(coming soon)*  
-  Machine learning classification model to predict customer churn.
+- ⚙️ End-to-end data workflows (CDC, ETL, batch pipelines)
+- 📈 Time series forecasting & real-time analytics
+- 🤖 Domain-specific AI apps with RAG + OpenAI
+- 🧠 Predictive insights with measurable business value
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Julio-analyst/impact-of-ai-asean">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julio-analyst&repo=impact-of-ai-asean&theme=default" />
+  </a>
+  <a href="https://github.com/Julio-analyst/IDISbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Julio-analyst&repo=IDISbot&theme=default" />
+  </a>
+</p>
+
+---
+
+## 🔍 Selected Projects
+
+- **[impact-of-ai-asean](https://github.com/Julio-analyst/impact-of-ai-asean)**  
+  LSTM-based forecasting to analyze GDP trends influenced by AI adoption in Southeast Asia. Finalist project at RASIO 8.0.
+
+- **[IDISbot](https://github.com/Julio-analyst/IDISbot)**  
+  AI chatbot with Retrieval-Augmented Generation for investment Q&A, built using GPT-4o, FAISS, and YFinance.
+
+- **[debezium-cdc-mirroring](https://github.com/Julio-analyst/debezium-cdc-mirroring)**  
+  Near real-time data replication from PostgreSQL using Debezium and Kafka. Supports analytical use cases and microservice syncing.
+
+---
+
+## 🧰 Tech Stack
 
 **Languages**: Python, SQL, R  
-**ML Tools**: TensorFlow, Scikit-learn, Numpy, Pandas  
-**Data Viz**: Matplotlib, Seaborn, Plotly  
-**Tools**: Streamlit, Faiss, OpenAI API, Git, Google Colab  
-**DB**: MySQL, PostgreSQL, Data Warehouse (DDL, DML)
+**ML/AI**: TensorFlow, Scikit-learn, Keras, Prophet  
+**Data Viz**: Plotly, Matplotlib, Seaborn  
+**Big Data & Infra**: Apache Kafka, Debezium, Spark, Hive  
+**Apps & APIs**: Streamlit, OpenAI, FAISS, Git, Docker  
+**DB & Warehouse**: PostgreSQL, MySQL, Hive, OLAP
 
 ---
 
-## 🔬 Currently Learning
-- Real-time data pipelines (Kafka + Debezium)
-- MLOps with GitHub Actions
-- Prophet, ARIMA as benchmarks for LSTM
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julio-analyst&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-analyst&layout=compact&theme=default" />
+</p>
 
 ---
 
-## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/farrel-julio-427143288)
-- 📁 [My Portfolio (Notion)](https://www.notion.so/Farrel-Julio-Akbar-cd09b97e811f4553905e54150035a867?pvs=4)
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/farrel-julio-427143288)  
+- 🌐 [Notion Portfolio](https://www.notion.so/Farrel-Julio-Akbar-cd09b97e811f4553905e54150035a867?pvs=4)  
 - 📧 farelrel12345@gmail.com
+
+---
+
+## 🧭 Want More?
+
+Check out my pinned projects or explore my portfolio for use cases in **AI, data pipelines**, and **decision intelligence systems** that bridge academic ideas with real-world utility.
