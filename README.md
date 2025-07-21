@@ -3,6 +3,10 @@
 ![GitHub issues](https://img.shields.io/github/issues/Julio-analyst/debezium-cdc-mirroring)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Julio-analyst/debezium-cdc-mirroring)
 
+## 🐍 GitHub Contribution Snake
+
+![snake](https://github.com/Julio-analyst/Julio-analyst/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Hi there, I'm Farrel 👋</h1>
 
 <p align="center">
