@@ -7,7 +7,7 @@
 
 <p align="center">
 🎯 Finalist RASIO 8.0 | 🧠 AI for Economics & Business <br>
-💼 Ex-F&B Founder | 🔍 Data Storyteller | 🇮🇩 Based in Indonesia
+| 🔍 Data Storyteller | 🇮🇩 Based in Indonesia
 </p>
 
 ---
